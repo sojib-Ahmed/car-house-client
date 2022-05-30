@@ -1,12 +1,11 @@
-# Car Dealer
+# Car House
 
-Car Dealer is the most enticing, creative, modern and versatile auto dealer premium REACT template suitable for any car dealer website, business or corporate websites.
+Car House is the most enticing, creative, modern and versatile auto dealer premium REACT template suitable for any car dealer website, business or corporate websites.
 
-## Live link (Firebase) - https://assignment-11-client-side.web.app/
-## Client Side Code Link - https://github.com/ProgrammingHeroWC4/warehouse-management-client-side-abukawsar47
-## Server Side Code Link - https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-abukawsar47
-## Stack Overflow Answer Link - https://stackoverflow.com/questions/60165042/is-it-possible-to-combine-optional-chaining-with-arrays-and-map-in-javascript/72133532#72133532
-
+## Live link (Firebase) - https://car-house-8d66f.web.app/
+## Client Side Code Link - https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-sojib-Ahmed
+## Server Side Code Link - https://github.com/ProgrammingHeroWC4/warehouse-management-server-side-sojib-Ahmed
+## Stack Overflow Answer Link - https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm/72430235#72430235
 
 
 ### Website Description
@@ -77,5 +76,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# warehouse-management-client-side-sojib-Ahmed
-# manufacturer-website-client-side-sojib-Ahmed
+# warehouse-management-server-side-sojib-Ahmed
+# manufacturer-website-server-side-sojib-Ahmed
