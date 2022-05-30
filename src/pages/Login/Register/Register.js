@@ -3,7 +3,7 @@ import { Link, useNavigate } from 'react-router-dom';
 import { useCreateUserWithEmailAndPassword, useUpdateProfile } from 'react-firebase-hooks/auth';
 import auth from '../../../firebase.init';
 import SocialLogin from '../SocialLogin/SocialLogin';
-import logo from '../../../images/logo-light.png';
+// import logo from '../../../images/logo-light.png';
 
 import './Register.css'
 import Loading from '../../Shared/Loading/Loading';
@@ -46,7 +46,7 @@ const Register = () => {
         <div className="bg-img-container">
             <div className="container py-5">
                 <div className='from-container register-form mx-auto bg-dark'>
-                    <img className='w-50 mx-auto mb-4 d-block' src={logo} alt="" />
+                    {/* <img className='w-50 mx-auto mb-4 d-block' src={logo} alt="" /> */}
                     <h2 className='text-danger text-center mb-4'>Please Register</h2>
                     <form onSubmit={handleRegister}>
                         <input type="text" name="name" id="" placeholder='Your Name' />

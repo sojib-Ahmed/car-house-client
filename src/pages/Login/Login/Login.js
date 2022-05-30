@@ -8,7 +8,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import './Login.css'
 import Loading from '../../Shared/Loading/Loading';
-import logo from '../../../images/logo-light.png'
+// import logo from '../../../images/logo-light.png'
 import axios from 'axios';
 
 const Login = () => {
@@ -71,7 +71,7 @@ const Login = () => {
         <div className='bg-img-container'>
             <div className='container py-5'>
                 <div className='from-container mx-auto bg-dark'>
-                    <img className='w-50 d-block mx-auto mb-4' src={logo} alt="" />
+                    {/* <img className='w-50 d-block mx-auto mb-4' src={logo} alt="" /> */}
                     <h2 className='text-white text-center mb-4'>Please Login</h2>
                     <Form onSubmit={handleSubmit}>
                         <Form.Group className="mb-3" controlId="formBasicEmail">
