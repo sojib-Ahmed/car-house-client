@@ -19,7 +19,6 @@ function App() {
   return (
     <div>
       <Header></Header>
-      <h1> itsd test Broooo</h1>
       <Routes>
         <Route path="/" element={<Home></Home>}></Route>
         <Route path="/home" element={<Home></Home>}></Route>

@@ -7,6 +7,7 @@ const Blogs = () => {
             <div className='container'>
                 <Card.Title>1) Difference between javascript and nodejs?</Card.Title>
                 <div>
+                    <h1> Sojib ahmed</h1>
                     <strong>Ans:</strong><p> JavaScript একটি স্ক্রিপ্টিং ভাষা। JavaScript হল ECMA স্ক্রিপ্টের একটি আপডেট করা সংস্করণ। জাভাস্ক্রিপ্ট একটি উচ্চ-স্তরের প্রোগ্রামিং ভাষা যা OPS ধারণা ব্যবহার করে।</p>
                     <p>নোডজেএস একটি ক্রস-প্ল্যাটফর্ম এবং ওপেন সোর্স জাভাস্ক্রিপ্ট রানটাইম পরিবেশ যা জাভাস্ক্রিপ্টকে সার্ভার-সাইডে চালানোর অনুমতি দেয়। Nodejs জাভাস্ক্রিপ্ট কোড ব্রাউজারের বাইরে চালানোর অনুমতি দেয়।</p>
                     <strong>Difference between JavaScript and Nodejs: </strong>
